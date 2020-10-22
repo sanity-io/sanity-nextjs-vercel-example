@@ -12,11 +12,16 @@
     ```
     npm install
     ```
-3. Setup Sanity
+1. Setup Sanity
     ```
     cd studio && sanity init
     ```
     This will prompt you if you want to reconfigure the project. Answer yes and follow instructions to create a new project.
+1. Setup Vercel deployment
+    ```
+    vercel
+    ```
+   When asked about build settings, make sure to use `npm run dev` as the development command 
 
 ## Notes
 In development (using `npm run dev`)
