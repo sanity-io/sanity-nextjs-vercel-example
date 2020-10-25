@@ -4,8 +4,8 @@
   "private": true,
   "description": "A bare bones example of a Vercel-deployable project with a Next.js frontend and a Sanity Studio on /studio",
   "devDependencies": {
-    "concurrently": "^5.3.0",
-    "lerna": "^3.22.1"
+    "concurrently": "5.3.0",
+    "lerna": "3.22.1"
   },
   "scripts": {
     "dev": "concurrently \"next --port $PORT\" \"cd studio && sanity start\"",
@@ -17,9 +17,9 @@
   "author": "Sanity.io <hello@sanity.io>",
   "license": "MIT",
   "dependencies": {
-    "@sanity/cli": "^2.0.5",
-    "next": "^9.5.5",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "@sanity/cli": "2.0.5",
+    "next": "9.5.5",
+    "react": "17.0.0",
+    "react-dom": "17.0.0"
   }
 }
