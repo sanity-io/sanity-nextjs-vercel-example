@@ -6,7 +6,7 @@
 
 1. Clone repo
     ```
-    git clone https://github.com/sanity-io/sanity-nextjs-examle
+    git clone https://github.com/sanity-io/sanity-nextjs-vercel-example.git
     ```
 1. Install dependencies
     ```
