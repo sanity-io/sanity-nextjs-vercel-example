@@ -14,13 +14,13 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^2.0.6",
-    "@sanity/components": "^2.0.6",
-    "@sanity/core": "^2.0.5",
-    "@sanity/default-layout": "^2.0.6",
-    "@sanity/default-login": "^2.0.5",
-    "@sanity/desk-tool": "^2.0.6",
-    "@sanity/vision": "^2.0.5",
+    "@sanity/base": "2.33.3",
+    "@sanity/components": "2.14.0",
+    "@sanity/core": "2.33.3",
+    "@sanity/default-layout": "2.33.3",
+    "@sanity/default-login": "2.33.3",
+    "@sanity/desk-tool": "2.33.3",
+    "@sanity/vision": "2.33.3",
     "prop-types": "^15.6",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
