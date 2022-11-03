@@ -5,7 +5,7 @@
   "description": "A bare bones example of a Vercel-deployable project with a Next.js frontend and a Sanity Studio on /studio",
   "devDependencies": {
     "concurrently": "^5.3.0",
-    "lerna": "^3.22.1"
+    "lerna": "^6.0.0"
   },
   "scripts": {
     "dev": "concurrently \"next --port $PORT\" \"cd studio && sanity start\"",
