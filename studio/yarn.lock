@@ -1097,8 +1097,7 @@
     rxjs "^6.5.3"
 
 "@sanity/core@^2.0.5":
-  version "2.0.5"
-  resolved "https://registry.npmjs.org/@sanity/core/-/core-2.0.5.tgz#18f27c5899ed7337834b3e54f648ea101db4df49"
+  version "2.35.7"
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.10.4"
     "@babel/preset-env" "^7.11.5"
@@ -1176,8 +1175,7 @@
     lodash "^4.17.15"
 
 "@sanity/default-layout@^2.0.6":
-  version "2.0.6"
-  resolved "https://registry.npmjs.org/@sanity/default-layout/-/default-layout-2.0.6.tgz#f6741864bc946cb8d6c1e264b878024bcab2388c"
+  version "2.35.7"
   dependencies:
     "@sanity/base" "2.0.6"
     "@sanity/components" "2.0.6"
@@ -1191,16 +1189,14 @@
     rxjs "^6.5.3"
 
 "@sanity/default-login@^2.0.5":
-  version "2.0.5"
-  resolved "https://registry.npmjs.org/@sanity/default-login/-/default-login-2.0.5.tgz#4fb8f038fd4e1b444e16fdf9a1bc50b261c8e88d"
+  version "2.35.7"
   dependencies:
     "@sanity/generate-help-url" "2.0.1"
     prop-types "^15.6.0"
     rxjs "^6.5.3"
 
 "@sanity/desk-tool@^2.0.6":
-  version "2.0.6"
-  resolved "https://registry.npmjs.org/@sanity/desk-tool/-/desk-tool-2.0.6.tgz#d5e5cea739371a4517d6c84b63dffb74caeb8c73"
+  version "2.35.7"
   dependencies:
     "@popperjs/core" "^2.4.4"
     "@reach/auto-id" "^0.10.5"
@@ -1603,8 +1599,7 @@
     type-of-is "^3.5.1"
 
 "@sanity/vision@^2.0.5":
-  version "2.0.5"
-  resolved "https://registry.npmjs.org/@sanity/vision/-/vision-2.0.5.tgz#06c03427dcfb545989fb8d196e141264ac94c103"
+  version "2.35.7"
   dependencies:
     classnames "^2.2.5"
     codemirror "^5.47.0"
